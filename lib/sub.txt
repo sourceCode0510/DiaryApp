@@ -1,0 +1,23 @@
+So I don't know who created this design, but I like it very
+much. 
+
+source code for this design will be uploaded to github.
+feel free to check it out.
+
+thanks for the creater of this design in advance.
+
+//
+let's start from scratch.
+create a home_page.
+get rid of the grey status bar.
+let's create the homepage.
+
+frontView of our card is ready.
+let's create the backpage.
+
+let's make the names of months and dates dynamic.
+lets' highlight the sundays and the saturdays.
+
+let's implement the switch.
+now time for some animations.
+
